@@ -1,7 +1,7 @@
 name: Shawn test 1
 favicon: null
-layout_spectrum: 0.11917278077453375
-typography_spectrum: 0.9102543841581792
+layout_spectrum: 0.97528
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.8006673688068986
-  lightness: 0.13543464546091855
-  saturation: 0.8744862724561244
-  rhythmicContrast: 0.9333066719118506
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
