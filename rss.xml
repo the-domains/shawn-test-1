@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shawn test 1]]></title>
+        <description><![CDATA[Shawn test 1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 16:09:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1602720-a8e2-492d-94fb-4d738cf8b3b7.jpg">]]></description>
+            <link>undefinedhello-i-am-shawn-hodgins-please-look-around-to-see-the-dif/index.html</link>
+            <guid isPermaLink="false">952ba89a-34c1-4d6a-a4d7-951a7ae21caf</guid>
+            <pubDate>Fri, 17 Jun 2016 16:08:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
