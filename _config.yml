@@ -1,0 +1,28 @@
+name: Shawn test 1
+favicon: null
+layout_spectrum: 0.11917278077453375
+typography_spectrum: 0.9102543841581792
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8006673688068986
+  lightness: 0.13543464546091855
+  saturation: 0.8744862724561244
+  rhythmicContrast: 0.9333066719118506
+purpose: []
